@@ -28,8 +28,16 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Tatuador  | Manter minhas informações atualizadas no app           | Que os clientes possam me conhecer melhor e entrar em contato comigo              |
+|Tatuador       | Manter um catálogo atualizado dos meus flashes disponíveis no app                | Que os clientes possam ver minhas opções de arte |
+|Cliente       | Agendar o horário da minha tatuagem pelo app                | Garantir o dia e a hora sem precisar ligar ou visitar o estúdio pessoalmente |
+|Cliente       | Ver no calendário as informações do meu agendamento e do flash escolhido                | Ter todas as informações necessárias em um só lugar |
+|Cliente       | Navegar por um catálogo de flash tattoos disponíveis                | Encontrar o design perfeito para mim |
+|Cliente       | Reservar as tatuagens escolhidas                | Garantir que o design que eu quero estará disponível para mim |
+|Cliente       | Realizar meu cadastro no app fornecendo informações pessoais necessárias                | Criar um perfil que me permita agendar sessões de tatuagem e acessar funcionalidades exclusivas |
+|Cliente       | Usar um filtro de busca por categoria, cor, tamanho e localização do corpo                 | Encontrar a flash tattoo ideal para mim de forma rápida e fácil |
+|Tatuador       | Que meu perfil no app esteja conectado às minhas redes sociais, contato e site                | Para permitir que os clientes acessem mais do meu trabalho e entrem em contato comigo diretamente através dessas plataformas |
+|Cliente       | Utilizar sistemas de pagamento online integrados ao app                 | Realizar o pagamento da minha tatuagem de forma segura e conveniente, garantindo minha reserva sem complicações |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
