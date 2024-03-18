@@ -7,6 +7,8 @@ porém antigamente não era vista como hoje em dia, tínhamos muitos preconceito
 
 Boa parte das pessoas que vão fazer tatuagens pegam muitas ideias de imagens, artistas,animes, desenhos trazendo várias ideias de artes, isso faz com que várias pessoas fiquem confusas com tantas opções e acabam desistindo da ideia de tatuar.
 
+Bom, com o que foi falado anteriormente, tivemos a ideia de criar um aplicativo que facilite a escolha de tatuagens para as pessoas que desejam fazê-la, trazendo simplicidade, rapidez e,principalmente, praticidade de marcar já qual tatuagem a pessoa deseja, e por isso criamos o (nome do projeto) que atualmente trabalha só com tatuagens FLASH, estilos de tatuagem pequena ou média fáceis de serem desenhas e que são criadas pelo próprio tatuador. No caso o desenvolvimento do nosso aplicativo será direcionado para a tatuadora @Space_Cobra , então no aplicativo ela poderá colocar seus desenhos e os clientes selecionarão os que desejam.
+
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
