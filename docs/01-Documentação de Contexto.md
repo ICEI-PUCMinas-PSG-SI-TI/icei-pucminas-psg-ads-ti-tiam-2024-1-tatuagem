@@ -1,6 +1,11 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A tatuagem, arte eternizada no corpo com diferentes pigmentos, é uma tradição muito comum em diversas partes do mundo. O hábito de fazer tatuagem é milenar e os primeiros registros datam de muitos anos antes de Cristo perdurando até os dias atuais.
+
+Com o passar dos tempos nossas queridas tatuagens vem se tornando cada vez mais populares,
+porém antigamente não era vista como hoje em dia, tínhamos muitos preconceitos e julgamentos com pessoas que possuíam algum tipo de tatuagem, mas com o passar do tempo isso vem sendo desconstruído na cabeça das pessoas e levando cada vez mais pessoas a fazerem “rabiscos” pelo corpo.
+
+Boa parte das pessoas que vão fazer tatuagens pegam muitas ideias de imagens, artistas,animes, desenhos trazendo várias ideias de artes, isso faz com que várias pessoas fiquem confusas com tantas opções e acabam desistindo da ideia de tatuar.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -16,12 +21,14 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é a criação de um portal de disponibilização e seleção de tatuagens para serem feitas, a fim de facilitar a conexão entre os tatuadores e clientes. O produto a ser criado pretende solucionar o problema da dificuldade do tatuador de administrar e promover a venda de seu serviço. Para tal, a aplicação a ser desenvolvida será orientada ao gerenciamento de horários e portfólio, catálogo e comunicação entre aqueles interessados em realizar novas sessões de tatuagem com o tatuador. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, podemos ressaltar:
+Fornecer meios de filtragem com base em certas características das da tatuagem;
+Oferecer um catálogo de tatuagens disponíveis de um tatuador, facilitando sua procura;
+Possibilitar que o cliente contate o tatuador, a fim de agendar um horário e fechar a contratação do serviço;
+Facilitar a venda e o pagamento das tatuagens selecionadas, para assegurar a arrecadação da compensação financeira
+
 
 ## Justificativa
 

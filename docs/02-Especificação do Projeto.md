@@ -87,15 +87,32 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Gestão de Perfil do Tatuador | ALTA | 
+|RF-002| Catálogo de Flash Tattoos Disponíveis   | ALTA |
+|RF-003| Gestão de Calendário de Sessões   | ALTA |
+|RF-004| Gestão de Perfil do Tatuador | ALTA | 
+|RF-005| Reserva de Flash Tattoos   | ALTA |
+|RF-006| Filtragem Avançada de Flash Tattoos | MÉDIA | 
+|RF-007| Integração com redes sociais   | MÉDIA |
+|RF-008| Sistema de Pagamento Online | MÉDIA | 
+|RF-009| Cadastro de Clientes   | ALTA |
+|RF-010| Opção de Escolha de Cor da Tatuagem   | MÉDIA |
 
-### Requisitos não Funcionais
+
+### Requisitos Não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Resposta Rápida do Aplicativo | ALTA | 
+|RNF-002| Design Intuitivo   | ALTA |
+|RNF-003| Compatibilidade com Sistemas Android   | ALTA |
+|RNF-004| Facilidade de Manutenção e Atualização | MÉDIA | 
+|RNF-005| Segurança dos Dados Cadastrados   | ALTA |
+|RNF-006| Desempenho Responsivo | ALTA | 
+|RNF-007| Estilo de Design Moderno e Atraente   | MÉDIA |
+|RNF-008| Compatibilidade com Múltiplos Dispositivos e Resoluções | ALTA | 
+|RNF-009| Facilidade de Atualização Remota   | MÉDIA |
+|RNF-010| Conformidade com Padrões de Acessibilidade   | ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -119,7 +136,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|02| O projeto deverá utilizar um banco de dados não-relacional|        |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
@@ -131,14 +148,7 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+![Casos de uso](img/casosdeuso.png)
 
 # Matriz de Rastreabilidade
 
@@ -162,11 +172,7 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
 
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
-
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
-
-![Gráfico de Gantt](img/02-grafico-gantt.png)
+![Diagrama de rede simplificado notação francesa (método francês)](img/gerenciamentodetempo.png)
 
 ## Gerenciamento de Equipe
 
@@ -178,4 +184,4 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
-![Orçamento](img/02-orcamento.png)
+![Orçamento](img/recursos.png)
