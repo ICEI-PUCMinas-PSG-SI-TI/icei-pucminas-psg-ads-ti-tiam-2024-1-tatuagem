@@ -1,20 +1,15 @@
 # Introdução
 
-A tatuagem, arte eternizada no corpo com diferentes pigmentos, é uma tradição muito comum em diversas partes do mundo. O hábito de fazer tatuagem é milenar e os primeiros registros datam de muitos anos antes de Cristo perdurando até os dias atuais.
+A tatuagem é uma forma de expressão artística e cultural que tem sido praticada ao longo dos milênios, em diversas culturas ao redor do mundo. Desde tempos antigos até os dias atuais, as tatuagens têm desempenhado um papel vital na representação de identidade, status, crenças religiosas, narrativas pessoais e muito mais. Ao longo da história da humanidade, as técnicas, estilos e significados das tatuagens evoluíram, refletindo as mudanças sociais, políticas e culturais que ocorreram ao longo do tempo.
 
-Com o passar dos tempos nossas queridas tatuagens vem se tornando cada vez mais populares,
-porém antigamente não era vista como hoje em dia, tínhamos muitos preconceitos e julgamentos com pessoas que possuíam algum tipo de tatuagem, mas com o passar do tempo isso vem sendo desconstruído na cabeça das pessoas e levando cada vez mais pessoas a fazerem “rabiscos” pelo corpo.
-
-Boa parte das pessoas que vão fazer tatuagens pegam muitas ideias de imagens, artistas,animes, desenhos trazendo várias ideias de artes, isso faz com que várias pessoas fiquem confusas com tantas opções e acabam desistindo da ideia de tatuar.
-
-Bom, com o que foi falado anteriormente, tivemos a ideia de criar um aplicativo que facilite a escolha de tatuagens para as pessoas que desejam fazê-la, trazendo simplicidade, rapidez e,principalmente, praticidade de marcar já qual tatuagem a pessoa deseja, e por isso criamos o (nome do projeto) que atualmente trabalha só com tatuagens FLASH, estilos de tatuagem pequena ou média fáceis de serem desenhas e que são criadas pelo próprio tatuador. No caso o desenvolvimento do nosso aplicativo será direcionado para a tatuadora @Space_Cobra , então no aplicativo ela poderá colocar seus desenhos e os clientes selecionarão os que desejam.
+Hoje em dia, as tatuagens ocupam um lugar central na cultura contemporânea, sendo uma forma de autoexpressão e arte corporal amplamente aceita e apreciada. Elas são uma maneira poderosa pela qual as pessoas podem expressar sua individualidade, contar suas histórias e criar conexões com as tradições passadas e os contextos culturais em constante mudança. A prática da tatuagem continua a evoluir, incorporando novas técnicas e estilos, ao mesmo tempo em que preserva e celebra as tradições e significados que têm sido transmitidos ao longo das gerações.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Com o passar do tempo, as tatuagens têm se tornado cada vez mais populares, contrastando com uma época em que eram vistas de forma muito diferente. Antigamente, havia muitos preconceitos e julgamentos associados às pessoas que possuíam tatuagens. No entanto, ao longo dos anos, essas percepções têm sido desconstruídas na mente das pessoas, levando a uma maior aceitação e normalização dessa forma de expressão corporal.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Atualmente, é comum vermos uma ampla variedade de pessoas decidindo se expressar por meio de tatuagens, conhecidas carinhosamente como "rabiscos" pelo corpo. Uma grande parcela daqueles que consideram fazer uma tatuagem busca inspiração em imagens diversas, artistas, animes e desenhos, o que pode resultar em uma grande variedade de ideias de arte. No entanto, essa abundância de opções pode, às vezes, sobrecarregar e confundir as pessoas, levando-as a hesitar ou até mesmo desistir da ideia de tatuar.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Assim, a evolução da percepção social das tatuagens e a crescente diversidade de inspirações artísticas refletem uma mudança significativa na forma como a sociedade encara a expressão individual e a arte corporal.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -34,12 +29,9 @@ Facilitar a venda e o pagamento das tatuagens selecionadas, para assegurar a arr
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Com base nas reflexões anteriores, surgiu a ideia de criar um aplicativo que simplifique o processo de escolha de tatuagens para aqueles que desejam se tatuar. Nosso objetivo é oferecer simplicidade, rapidez e, acima de tudo, praticidade, permitindo que as pessoas selecionem facilmente as tatuagens que desejam marcar. Assim, desenvolvemos o (nome do projeto), uma plataforma que atualmente se concentra em tatuagens FLASH, conhecidas por seu estilo pequeno ou médio, sendo desenhos facilmente executados pelos tatuadores.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Nossa parceria inicial é com a talentosa tatuadora @Space_Cobra, que terá a oportunidade de exibir seus desenhos no aplicativo. Os clientes poderão explorar sua galeria de desenhos e selecionar aqueles que desejam tatuar. Essa abordagem visa proporcionar uma experiência simplificada e personalizada tanto para os clientes quanto para os artistas, facilitando a escolha e o agendamento de tatuagens. Estamos comprometidos em tornar o processo de obtenção de uma nova tatuagem uma experiência mais acessível, agradável e satisfatória para todos os envolvidos.
 
 ## Público-Alvo
 
